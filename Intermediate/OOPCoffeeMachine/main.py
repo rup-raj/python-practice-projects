@@ -27,5 +27,5 @@ while is_machine_on:
         if drink is not None:
             if coffee_maker.is_resource_sufficient(drink):
                 if money_process.make_payment(drink.cost):
-                    print(f"Thanks for the order. Your {user_choice} will be ready soon 😀")
+                    print(f"Thanks for the order. Your {user_choice} will be ready soon ðŸ˜€")
                     coffee_maker.make_coffee(drink)
