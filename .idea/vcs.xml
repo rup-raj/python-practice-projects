@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Intermediate/OOPCoffeeMachine" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Intermediate/QuizGame" vcs="Git" />
   </component>
 </project>
